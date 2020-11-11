@@ -1,5 +1,5 @@
 {
-  "name": "chic",
+  "name": "@knowdiddly/chic",
   "version": "0.0.1",
   "description": "Like 'svelte' but 33% leaner and with considerably more style",
   "main": "index.js",
